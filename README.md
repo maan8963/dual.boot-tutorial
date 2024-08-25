@@ -20,7 +20,7 @@ You will need:
 - [Rufus](https://rufus.ie/en/), a free and open source USB stick writing tool
 - An Ubuntu ISO file. See [Get Ubuntu](https://ubuntu.com/download?_ga=2.250028994.53089604.1724431189-1971125994.1724431189) for download links
 
-  # 3. USB selection
+# 3. USB selection
 Perform the following to configure your USB device in Rufus:
 
 1. Launch Rufus
